@@ -6,7 +6,7 @@ from discord.ext import commands
 
 bot = commands.Bot(command_prefix = '$',status=discord.Status.online)
 
-token = 'NzkwNDgyMTM5NDg1MTc1ODM5.X-BP3A.0faFqOA047JR_3MBJuna5I--sSU'
+token = 'NzkwNDgyMTM5NDg1MTc1ODM5.X-BP3A.vaQP82Pce4bgSRKmv-t0ZgFscQo'
 
 NowParty = []
 
